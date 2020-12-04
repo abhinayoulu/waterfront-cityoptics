@@ -21,7 +21,7 @@ The cluster is hosted in the CSC cPouta infra.
   <img src="kibana.png" title="Kibana dashboard">
 </p>
 
-NOTE: If you are already using Kibana, you can import your pre-built Dashboards (expor.ndjson file), Searches and Visualizations into Logz.io. 
+NOTE: If you are already using Kibana, you can import your pre-built Dashboards (expor.ndjson file), Searches and Visualizations. 
 1. Go to Kibana
 2. Click on Management
 3. Click on Saved Objects
