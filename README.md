@@ -10,9 +10,6 @@ Abstract: In this era of data-driven governance and policy-design, officials nee
 
 Video: https://www.youtube.com/watch?v=IiJXlneg6HM
 Kibana live Demo (tested in Chrome 86.0.4240.198 on MacOS): http://195.148.22.235/goto/e75bdd4deef138c18feafa5b2096cf17
-Kibana credentials: kibanaadmin/cutler
-
-Here you can find the source code for the paper "Strings and Things: A Semantic Search Engine for news quotes using Named Entity Recognition". A live demo is also available in this link https://www.humcomp.ml/.
 
 Below you can also see some cool aggregations and visualizations in Kibana that was done with Abhinay Pandya for the 2020 #WaterFrontHack Global Online Hackathon organised by the H2020 CUTLER project.
 
@@ -20,14 +17,5 @@ The cluster is hosted in the CSC cPouta infra.
 
 <p align="center">
   <img src="kibana.png" title="Kibana dashboard">
-</p>
-
-
-<p align="center">
-  <img src="pic1.png" title="Search Engine Frontend">
-</p>
-
-<p align="center">
-  <img src="pic2.png" title="Search Engine results">
 </p>
 
